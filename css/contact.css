@@ -1,0 +1,30 @@
+.text-center {
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Roboto,sans-serif;
+    font-weight: 300;
+}
+p {
+    margin: 0 0 10px;
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.twitter-section .twitter-icon {
+    margin-bottom: 30px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.twitter-section .tweet {
+    background: #3dbdb9;
+    color: #fff;
+    padding: 30px;
+    position: relative;
+}
